@@ -22,3 +22,7 @@ I intended to flush it out more and if I were to do more the list below would be
 - CountDown Versions
 - Over All Look
 - Multiplayer
+
+
+Bugs To Fix
+- Opening pause menu stops you from continuing game when unpausing as you cannot click on cards
